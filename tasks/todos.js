@@ -22,7 +22,7 @@ module.exports = function(grunt) {
                 med : /FIXME/, //This will print out yellow
                 high : null //This will print out red and cause grunt to fail
             },
-            reporter : require('../lib/reporters/default')
+            reporter : 'default'
         });
 
         var grep = require('../lib/grep');
