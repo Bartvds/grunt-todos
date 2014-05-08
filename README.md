@@ -203,6 +203,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Licence
 
+Copyright (c) 2014 by [Bart van der Schoor](https://github.com/Bartvds).
 Copyright (c) 2013 by [Kevin Lakotko](https://github.com/kevinlacotaco).
 
 Licensed under the MIT License. 
