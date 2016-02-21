@@ -3,9 +3,9 @@
   "description": "Grunt plugin for finding todos/fixmes in code",
   "version": "0.3.0",
   "homepage": "https://github.com/Bartvds/grunt-todos",
-  "author":  {
-      "name": "Kevin Lakotko",
-      "email": "klakotko@gmail.com"
+  "author": {
+    "name": "Kevin Lakotko",
+    "email": "klakotko@gmail.com"
   },
   "contributors": [
     {
@@ -46,7 +46,7 @@
     "async": "~0.8.0"
   },
   "peerDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
     "gruntplugin",
